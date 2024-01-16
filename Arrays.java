@@ -1,5 +1,5 @@
 11/9/2023
-CSE 7 Fall 23: HW 4: Sorting Arrays
+Sorting Arrays
 Merges 2 arrays into 1
 VSCode / JDK 11
 */
